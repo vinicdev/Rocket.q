@@ -44,11 +44,11 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 👨‍💻 Instalação
 
-Você precisa ter o Node.js instalado na sua máquina. Senão tiver você pode fazer o download através desse link. Com o Node instalado na máquina, vc precisa apenas de 3 comandos (no terminal) na pasta do projeto, nessa ordem:
-
-npm install -> Para instalar as dependências do projeto. (só precisa ser executado uma vez)
-npm init-db -> Para criar o banco de dados local. (só precisa ser executado uma vez, mas se apagar o arquivo .sqlite terá que executar novamente)
-npm start -> Para iniciar o servidor local (para acessar o projeto via navegador, digite na barra de endereço: localhost:3000)
+Você precisa ter o <strong>Node.js</strong> instalado na sua máquina. Senão tiver você pode fazer o download através [desse link](https://nodejs.org/en/download/).
+Com o Node instalado na máquina, vc precisa apenas de 3 comandos (no terminal) na pasta do projeto, nessa ordem:
+1. `npm install` -> Para instalar as dependências do projeto. (só precisa ser executado uma vez)<br>
+2. `npm init-db` -> Para criar o banco de dados local. (só precisa ser executado uma vez, mas se apagar o arquivo .sqlite terá que executar novamente)<br>
+3. `npm start` -> Para iniciar o servidor local (para acessar o projeto via navegador, digite na barra de endereço: localhost:3000)<br>
 
 ## :memo: Licença
 
